@@ -57,7 +57,7 @@ def depth_first_search(graph, start):
     return explored
 ```
 
-### [Breadth-first search](https://en.wikipedia.org/wiki/Depth-first_search)
+### [Breadth-first search](https://en.wikipedia.org/wiki/Breadth-first_search)
 
 
 ```python
