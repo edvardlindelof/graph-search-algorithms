@@ -29,7 +29,7 @@ FINISH = 4
 
 
     
-![png](notebook_files/notebook_3_0.png)
+![png](README_files/README_3_0.png)
     
 
 
@@ -142,6 +142,6 @@ Comparison of the discovered paths illustrates that
 
 
     
-![png](notebook_files/notebook_16_0.png)
+![png](README_files/README_16_0.png)
     
 
